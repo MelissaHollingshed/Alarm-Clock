@@ -11,5 +11,5 @@ UseCase diagram of alarm clock
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
-![alt text](/Alarm-Clock/Use-Case-Diagram.png "UseCase")
+![UseCase](Use-Case-Diagram.png)
 
